@@ -1,0 +1,6 @@
+*{font-family: monospace;}
+#galeria{width: 100%;height: auto;display: flex;flex-wrap: wrap;margin: auto;justify-content: center;}
+
+.ropa{;width: 200px;height: 300px;overflow: hidden;padding: 10px;}
+
+.imagen{width: 100%;}
